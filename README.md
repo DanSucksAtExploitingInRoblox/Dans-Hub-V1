@@ -1,5 +1,5 @@
 -- Dans hub V1
--- This will have a lisence soon.
+-- Dans Hub V1 by Dann is marked with CC0 1.0 Universal 
 -- Script :
 
 
