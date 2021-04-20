@@ -1,2 +1,3 @@
-# Dans-Hub-V1
-An script gui exploit for roblox.
+--# Dans-Hub-V1
+-- script gui exploit for roblox.
+Please understand that this will have a jailbreak auto farm soon.
